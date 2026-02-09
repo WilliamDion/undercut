@@ -21,7 +21,7 @@ export default function About() {
           <h2 className="text-4xl font-bold mb-6 text-white">Marra & Estilo</h2>
           <p className="text-zinc-400 leading-relaxed mb-6">
             Desde 20XX, trazendo os cortes que mais refletem a sua personalidade. 
-            Ambiente climatizado, chopp gelado e os melhores profissionais da região 
+            Ambiente climatizado e os melhores profissionais da região 
             prontos para transformar seu visual.
           </p>
           
