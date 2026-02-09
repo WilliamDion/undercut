@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Barbearia",
-  description: "Barbearia moderna especialista em luzes e platinado",
+  description: "Barbearia moderna",
 };
 
 export default function RootLayout({
