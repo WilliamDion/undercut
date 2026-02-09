@@ -2,12 +2,12 @@
 import { FaWhatsapp, FaInstagram, FaMapMarkerAlt, FaClock } from 'react-icons/fa'
 import { BUSINESS_HOURS } from '@/src/config/business-hours'
 
-export const whatsappNumber = "5551992308146"
+export const whatsappNumber = "5551992268181"
 
 export default function Contact() {
 
-  const instagramUser = "dvargasbarber" 
-  const address = "R. Nestor de Moura Jardim, 475 - Salgado Filho - Gravataí - RS"
+  const instagramUser = "barbearia_undercut_oficial" 
+  const address = "R. Cruzeiro do Sul, 594 - São Vicente, Gravataí - RS"
   const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`
 
   return (
@@ -97,7 +97,7 @@ export default function Contact() {
             
             <div className="relative z-10 w-full h-full bg-zinc-900 overflow-hidden rounded-sm grayscale invert contrast-[0.9] hover:grayscale-0 transition-all duration-700">
                <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3463.344405391696!2d-50.983995!3d-29.93202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9519730f0f0f0f0f%3A0x0f0f0f0f0f0f0f0f!2sR.%20Nestor%20de%20Moura%20Jardim%2C%20475%20-%20Salgado%20Filho%2C%20Gravata%C3%AD%20-%20RS!5e0!3m2!1spt-BR!2sbr!4v1700000000000!5m2!1spt-BR!2sbr" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27663.70084945811!2d-51.04407768916017!3d-29.92297869999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95190b1312907789%3A0x68d9bcccf0c7913a!2sBarbearia%20Undercut!5e0!3m2!1spt-BR!2sbr!4v1770625905610!5m2!1spt-BR!2sbr" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
