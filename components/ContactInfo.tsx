@@ -38,7 +38,7 @@ export default function Contact() {
                 </div>
                 <div className="ml-6">
                   <p className="text-xs uppercase tracking-widest text-zinc-500 font-bold">WhatsApp</p>
-                  <p className="text-xl font-bold group-hover:text-primary transition-colors">(51) 98058-3680</p>
+                  <p className="text-xl font-bold group-hover:text-primary transition-colors">(51) 99226-8181</p>
                 </div>
               </a>
 
