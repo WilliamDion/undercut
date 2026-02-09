@@ -22,7 +22,7 @@ export default function Home() {
       {/* HERO SECTION PREMIUM */}
       <section className="relative h-[80vh] flex items-center justify-center overflow-hidden">
         <div className="relative z-10 text-center px-4 flex flex-col items-center">
-          <div className="mb-6 animate-fade-in">
+          <div className="mb-6 animate-fade-in invert">
             <img 
               src="https://rrwxenfxczyiqdjhhxem.supabase.co/storage/v1/object/public/logos/undercut.jpg" 
               alt="Logo" 
