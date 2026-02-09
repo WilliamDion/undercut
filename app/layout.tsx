@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dvargas Barbearia",
+  title: "Barbearia",
   description: "Barbearia moderna especialista em luzes e platinado",
 };
 
